@@ -18,12 +18,12 @@ Individual Projects:
 
 Accenture North America Data Analytics and Visualization Job Simulation on Forage
 June 2024
+-  Completed a simulation focused on advising a hypothetical social media client as a Data Analyst at Accenture.
+-  Cleaned, modeled, and analyzed 7 datasets to uncover insights into content trends to inform strategic decisions.
+-  Prepared a PowerPoint deck and video presentation to communicate key insights for the client and internal stakeholders.
 
-Completed a simulation focused on advising a hypothetical social media client as a Data Analyst at Accenture.
-Cleaned, modeled, and analyzed 7 datasets to uncover insights into content trends to inform strategic decisions.
-Prepared a PowerPoint deck and video presentation to communicate key insights for the client and internal stakeholders.
 
 ### IEUK 2024 Internship
 
-Developed a project where I analyzed fitness app user data to create a strategic roadmap aimed at enhancing user engagement and subscription growth.
-Conducted a high-level competitor analysis and user feedback assessment to prioritize feature development.
+-  Developed a project where I analyzed fitness app user data to create a strategic roadmap aimed at enhancing user engagement and subscription growth.
+-  Conducted a high-level competitor analysis and user feedback assessment to prioritize feature development.
